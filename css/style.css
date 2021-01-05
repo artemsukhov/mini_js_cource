@@ -85,7 +85,7 @@ body {
   display: none !important;
 }
 .mobile-element {
-  display: block;
+  display: block !important;
 }
 .container {
   width: 100%;
